@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenoocrf&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=968f7b" alt="Breno Barreto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoocrf&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=968f7b" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenoocrf&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00FFFF" alt="Breno Barreto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoocrf&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=00FFFF" />
 </div>
 
 <div align="center"> 
@@ -22,4 +22,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=E34F26&labelColor=0D1117)&nbsp; 
 
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=968f7b&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
