@@ -1,6 +1,6 @@
 ### EM CRIAÇÃO... 👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=968f7b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=968f7b&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+BRENO+BARRETO+;TENHO+21+ANOS+;E+ESTOU+CURSANDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS%29)](https://git.io/typing-svg)
 
