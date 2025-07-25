@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0FFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+BRENO+BARRETO+;TENHO+22+ANOS+;E+ESTOU+CURSANDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0FFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+BRENO+BARRETO+;TENHO+23+ANOS+;E+ESTOU+CURSANDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
